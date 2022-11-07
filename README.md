@@ -14,6 +14,8 @@ website built through a youtube tutorial
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
 ![preview img](/preview.png)
+
+---
+
+tutorial followed by [Bedimcode](https://www.youtube.com/c/Bedimcode)
