@@ -1,4 +1,4 @@
-# halloween-website
+# Halloween-website
 
 website built through a youtube tutorial
 
